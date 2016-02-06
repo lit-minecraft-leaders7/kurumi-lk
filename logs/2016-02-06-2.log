@@ -1,0 +1,23 @@
+[16:07:33] [main/INFO]: Setting user: Player540
+[16:07:35] [Client thread/INFO]: LWJGL Version: 2.9.1
+[16:07:40] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
+[16:07:44] [Sound Library Loader/INFO]: Sound engine started
+[16:07:50] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[16:07:50] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[16:07:50] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Example Mod
+[16:07:50] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[16:07:50] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[16:07:51] [Sound Library Loader/INFO]: Sound engine started
+[16:08:04] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[16:08:04] [Server thread/INFO]: Generating keypair
+[16:08:05] [Server thread/INFO]: Preparing start region for level 0
+[16:08:06] [Server thread/INFO]: Preparing spawn area: 84%
+[16:08:06] [Server thread/INFO]: Changing view distance to 12, from 10
+[16:08:07] [Server thread/INFO]: Player540[local:E:bf2525f2] logged in with entity id 302 at (249.55509480888728, 68.0, 189.33266016400987)
+[16:08:07] [Server thread/INFO]: Player540 joined the game
+[16:09:32] [Server thread/INFO]: Player540 has just earned the achievement [Taking Inventory]
+[16:09:32] [Client thread/INFO]: [CHAT] Player540 has just earned the achievement [Taking Inventory]
+[16:10:53] [Server thread/INFO]: Saving and pausing game...
+[16:10:53] [Server thread/INFO]: Saving chunks for level 'Creative'/Overworld
+[16:10:53] [Server thread/INFO]: Saving chunks for level 'Creative'/Nether
+[16:10:53] [Server thread/INFO]: Saving chunks for level 'Creative'/The End
